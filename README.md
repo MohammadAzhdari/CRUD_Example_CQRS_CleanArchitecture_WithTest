@@ -15,6 +15,9 @@ CQRS:
 Test Library:
 - Include Test Class For Validating Customer Entity Property
 
+FluentApi:
+- fluentAPi implemented for Customer Entity that we can set type of column for dataBase sql server
+
 Swagger:
 - For Test Api Swagger Implemented In Presentation Project
 
